@@ -46,36 +46,5 @@ https://cdn.freevidco.com/wet%20dream.mp4
 https://cdn.freevidco.com/Diario%20de%20una.mp4
 #EXTINF:-1 group-title="CH",1cv6
 https://cdn.freevidco.com/Encerrados.mp4
-#EXTINF:-1 group-title="CH",1cv6
-/19E241 Safari/602.1
-#
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="01" group-title="🔴FIFA WORLD CUP 2026" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg",somoy tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-
-#EXTINF:-1 tvg-id="01" group-title="🔴FIFA WORLD CUP 2026" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg",ptv sport
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
-
-#EXTINF:-1 group-title="🔴FIFA WORLD CUP 2026" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg", DSPORTS 1
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-#EXTINF:-1 group-title="🔴FIFA WORLD CUP 2026" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg", DSPORTS+
-
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
-
-#EXTINF:-1 group-title="🔴FIFA WORLD CUP 2026" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg", DSPORTS 2
-
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-
-#EXTINF:-1 group-title="🔴FIFA WORLD CUP 2026" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg", CCTV 5
-http://74.91.26.218:82/live/cctv5hd.m3u8
-
-#EXTINF:-1 group-title="🔴FIFA WORLD CUP 2026" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg", CCTV 5+
-http://74.91.26.218:82/live/cctv5p.m3u8
-
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png", AXN 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
